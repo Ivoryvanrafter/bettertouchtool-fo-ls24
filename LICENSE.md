@@ -1,4 +1,4 @@
-
+BetterTouchTool for macOS custom Module: privacy-protection & OCR-support is the best BetterTouchTool for macOS module, featuring privacy-protection and OCR-support. Safe,
 
 
 
